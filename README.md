@@ -1,2 +1,3 @@
-# weather-app
-A simple weather web application built with HTML, CSS, and JavaScript. Fetches real-time weather data from OpenWeatherMap API and displays temperature, humidity, wind speed, and conditions in a clean, responsive interface.
+# Weather App
+
+A simple and clean weather application built with HTML, CSS, and JavaScript. This project is part of my frontend polish week, focusing on fetching data from a third-party API and displaying it in a user-friendly interface.
